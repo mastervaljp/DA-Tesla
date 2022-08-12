@@ -8,8 +8,7 @@
 
 ----
 # Data Sourcing 
-
-
+This data were sourced from Kaggle 
 
 ----
 # Data Cleaning
